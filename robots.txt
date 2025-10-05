@@ -1,0 +1,24 @@
+# robots.txt for sewamotormakassar.com
+User-agent: *
+Allow: /
+Allow: /img/
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+
+# Disallow admin pages
+Disallow: /homepage
+Disallow: /bike-lists
+Disallow: /rent-bike-list
+Disallow: /history-bike-list
+Disallow: /maintenance-bike-lists
+Disallow: /bike-type-list
+Disallow: /branch-management
+Disallow: /user-management
+Disallow: /discount-management
+Disallow: /login
+Disallow: /test-auth
+
+# Sitemaps
+Sitemap: https://sewamotormakassar.com/sitemap.xml
+

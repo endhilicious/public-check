@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://sewamotormakassar.com/</loc>
+    <lastmod>2025-10-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Hero Banner Image -->
+    <image:image>
+      <image:loc>https://sewamotormakassar.com/img/banner-promo.png</image:loc>
+      <image:title>Sewa Motor di Makassar 2025 - Rental Motor Murah Mulai 80rb</image:title>
+      <image:caption>Andi Rental Motor Makassar - Rental motor harian, mingguan, bulanan. Fast respon, antar jemput gratis. Rating 5.0</image:caption>
+    </image:image>
+    
+    <!-- Motor Collection Image -->
+    <image:image>
+      <image:loc>https://sewamotormakassar.com/img/gadget-res.png</image:loc>
+      <image:title>Pilihan Motor Rental Makassar - Matic Honda Yamaha</image:title>
+      <image:caption>Koleksi motor rental: Beat, Vario, Nmax, PCX, Scoopy. Semua unit terawat dan siap pakai</image:caption>
+    </image:image>
+    
+    <!-- Logo -->
+    <image:image>
+      <image:loc>https://sewamotormakassar.com/img/logo.png</image:loc>
+      <image:title>Logo Andi Rental Motor Makassar</image:title>
+      <image:caption>Andi Rental - Daeng Remolis - Rental Motor Terpercaya di Makassar</image:caption>
+    </image:image>
+    
+    <!-- Hero Logo -->
+    <image:image>
+      <image:loc>https://sewamotormakassar.com/img/hero-logo.png</image:loc>
+      <image:title>Andi Rental Motor Makassar - Sewa Motor Murah</image:title>
+      <image:caption>Rental motor Makassar terpercaya sejak 2020</image:caption>
+    </image:image>
+    
+    <!-- Brand Image -->
+    <image:image>
+      <image:loc>https://sewamotormakassar.com/img/brand.png</image:loc>
+      <image:title>Brand Andi Rental Daeng Remolis</image:title>
+      <image:caption>Logo brand rental motor terpercaya di Makassar</image:caption>
+    </image:image>
+  </url>
+
+</urlset>
+
