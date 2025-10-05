@@ -1,5 +1,7 @@
----
 deployment:
 tasks:
 - export DEPLOYPATH=/home/alfr8613/public_html/
-- /bin/cp -r * $DEPLOYPATH
+- /bin/cp -r alfazzagroup/* $DEPLOYPATH
+
+- export DEPLOYPATH=/home/alfr8613/sewamotormakassar.com/
+- /bin/cp -r sewamotormakassar.com/* $DEPLOYPATH
